@@ -549,7 +549,7 @@ public class FilterManipulator
         
         BufferedImage img = null;
         
-        JFileChooser chooser = new JFileChooser("C:\\Users\\Calvin Cramer\\Desktop");
+        JFileChooser chooser = new JFileChooser("C:\\Users\\Calvin\\Desktop");
         FileFilter filter = new FileNameExtensionFilter("filter that accepts only picture formats", "jpg", "jpeg", "tiff", "tif", "gif", "bmp", "png");
         chooser.addChoosableFileFilter(filter);
         chooser.setDialogTitle("Choose A Picture To Filter");

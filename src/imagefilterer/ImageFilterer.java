@@ -48,7 +48,7 @@ public class ImageFilterer {
     
     public static void createPicture(BufferedImage image, String fileName) {
         try {
-            File outputfile = new File("C:\\Users\\Calvin Cramer\\Desktop\\FileFilter\\" + fileName + ".png");
+            File outputfile = new File("C:\\Users\\Calvin\\Desktop\\FileFilter\\" + fileName + ".png");
             ImageIO.write(image, "png", outputfile);
         } catch (IOException e) {
             e.printStackTrace();
@@ -59,7 +59,7 @@ public class ImageFilterer {
         
         BufferedImage img = null;
         
-        JFileChooser chooser = new JFileChooser("C:\\Users\\Calvin Cramer\\Desktop");
+        JFileChooser chooser = new JFileChooser("C:\\Users\\Calvin\\Desktop");
         FileFilter filter = new FileNameExtensionFilter("filter that accepts only picture formats", "jpg", "jpeg", "tiff", "tif", "gif", "bmp", "png");
         chooser.addChoosableFileFilter(filter);
         chooser.setDialogTitle("Choose A Picture To Filter");
