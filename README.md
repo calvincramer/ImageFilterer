@@ -28,18 +28,53 @@ A collection of image filters.
 
 ## Examples
 
-![Original](example/img.jpg)
-![Color Difference Filter](example/img_color_difference.png)
-![Luminosity Difference Filter](example/img_luminosity_difference.png)
-![Pixelating Filter](example/img_pixelating.png)
-![Polygon Filter](example/img_polygon.png)
-![Triangle Filter](example/img_triangle.png)
-![Stipling Filter](example/img_stipling.png)
-![Blur Filter](example/img_blur_filter.png)
-![Recursive Square Filter](example/img_recursive_square.png)
-![Pixel Map Filter](example/img_pixel_map_blur.png)
-![Affine Transform Filter](example/img_affine_transform.png)
-![Brightness Contrast Filter](example/img_brightness_contrast.png)
+| ![Original](example/img.jpg) |
+|:--:|
+| * Original * |
+
+| ![Color Difference Filter](example/img_color_difference.png) |
+|:--:|
+| * Color Difference Filter * |
+
+| ![Luminosity Difference Filter](example/img_luminosity_difference.png) |
+|:--:|
+| * Luminosity Difference Filter * |
+
+| ![Pixelating Filter](example/img_pixelating.png) |
+|:--:|
+| * Pixelating Filter * |
+
+| ![Polygon Filter](example/img_polygon.png) |
+|:--:|
+| * Polygon Filter * |
+
+| ![Triangle Filter](example/img_triangle.png) |
+|:--:|
+| * Triangle Filter * |
+
+| ![Stipling Filter](example/img_stipling.png) |
+|:--:|
+| * Stipling Filter * |
+
+| ![Blur Filter](example/img_blur_filter.png) |
+|:--:|
+| * Blur Filter * |
+
+| ![Recursive Square Filter](example/img_recursive_square.png) |
+|:--:|
+| * Recursive Square Filter * |
+
+| ![Pixel Map Filter](example/img_pixel_map_blur.png) |
+|:--:|
+| * Pixel Map Filter * |
+
+| ![Affine Transform Filter](example/img_affine_transform.png) |
+|:--:|
+| * Affine Transform Filter * |
+
+| ![Brightness Contrast Filter](example/img_brightness_contrast.png) |
+|:--:|
+| * Brightness Contrast Filter * |
 
 ## Additional work / notes
 
